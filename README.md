@@ -2,14 +2,7 @@ Names:
 Harikrishna Bathala (1001415489)
 Rohit Katta (1001512896)
 
-Language: JAVA
-==============================================================================================
-Contents of ZIP File:
-1. Two_phase_locking.java
-2. Transaction.java
-3. Lock.java
-4. Readme.txt
-5. Output-Project1-HariKrishna-Rohit.pdf
+
 ==============================================================================================
 Each File Explained:
 
