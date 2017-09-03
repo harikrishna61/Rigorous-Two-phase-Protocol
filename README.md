@@ -4,7 +4,6 @@ Rohit Katta (1001512896)
 
 
 ==============================================================================================
-Each File Explained:
 
 Two_phase_locking.java
 Main program file. Contains main class. Input file can be given as command line input 
